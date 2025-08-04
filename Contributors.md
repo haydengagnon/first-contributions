@@ -752,6 +752,7 @@ aj
 - [Efe Franklin](https://github.com/frankyxgithub)
 - [Bojidar Vladimirov](https://github.com/BojkaV)
 - [Shubham Kumar](https://github.com/MysticWanderer142)
+- [Hayden Gagnon](https://github.com/haydengagnon)
 - [Levin Lieckfeldt]
 - [Yazeed Tarshan]
 - [Sandra Yee]
